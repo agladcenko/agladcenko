@@ -23,10 +23,10 @@
 
 ## Стек
 
-**Языки:** Python, C++
-**Python:** aiogram, requests, Pygame, SQLite
-**Железо:** ESP32, Arduino, HTTP-протоколы, EEPROM, watchdog
-**Инструменты:** Git, Linux, SSH, systemd, CMake, PyInstaller
+- **Языки:** Python, C++
+- **Python:** aiogram, requests, Pygame, SQLite
+- **Железо:** ESP32, Arduino, HTTP, EEPROM, watchdog
+- **Инструменты:** Git, Linux, SSH, systemd, CMake, PyInstaller
 
 ## Учусь
 
