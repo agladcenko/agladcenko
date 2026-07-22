@@ -12,13 +12,13 @@
 
 ## Проекты
 
-**[Система управления квест-комнатой](https://github.com/SmachnoPerdanul/quest-control-system)**
+**[Система управления квест-комнатой](https://github.com/agladcenko/quest-control-system)**
 Комплекс из четырёх программ для действующей квест-комнаты: управление 16 замками через ESP32 и Arduino, освещение по зонам, интерактивные панели для игроков. Python, Pygame, HTTP, многопоточность.
 
-**[Баллистическое моделирование](https://github.com/SmachnoPerdanul/ballistic-trajectory)**
+**[Баллистическое моделирование](https://github.com/agladcenko/ballistic-trajectory)**
 Расчёт траектории с учётом сопротивления воздуха: метод Рунге–Кутты 4-го порядка, сравнение с аналитическим решением, интерактивные графики. C++17, SFML, CMake.
 
-**[Крипто-бот](https://github.com/SmachnoPerdanul/crypto-rate-bot)**
+**[Крипто-бот](https://github.com/agladcenko/crypto-rate-bot)**
 Телеграм-бот для отслеживания курсов криптовалют: CoinGecko API, inline-кнопки, SQLite, обработка сетевых ошибок. Задеплоен на VPS как systemd-сервис.
 
 ## Стек
