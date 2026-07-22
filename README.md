@@ -1,16 +1,39 @@
-## Hi there 👋
+# Ярослав Гладченко
 
-<!--
-**SmachnoPerdanul/SmachnoPerdanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю автоматизацию на Python и системы, связывающие софт с оборудованием.
 
-Here are some ideas to get you started:
+## Чем занимаюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Телеграм-боты и автоматизация: работа с API, парсинг, интеграции, хранение данных
+- Проекты на стыке софта и железа: ESP32, Arduino, управление оборудованием с ПК
+- Настольные приложения и расчётные программы
+
+Довожу проекты до работающего состояния: не только код, но и деплой, документация, запуск в эксплуатации.
+
+## Проекты
+
+**[Система управления квест-комнатой](https://github.com/SmachnoPerdanul/quest-control-system)**
+Комплекс из четырёх программ для действующей квест-комнаты: управление 16 замками через ESP32 и Arduino, освещение по зонам, интерактивные панели для игроков. Python, Pygame, HTTP, многопоточность.
+
+**[Баллистическое моделирование](https://github.com/SmachnoPerdanul/ballistic-trajectory)**
+Расчёт траектории с учётом сопротивления воздуха: метод Рунге–Кутты 4-го порядка, сравнение с аналитическим решением, интерактивные графики. C++17, SFML, CMake.
+
+**[Крипто-бот](https://github.com/SmachnoPerdanul/crypto-rate-bot)**
+Телеграм-бот для отслеживания курсов криптовалют: CoinGecko API, inline-кнопки, SQLite, обработка сетевых ошибок. Задеплоен на VPS как systemd-сервис.
+
+## Стек
+
+**Языки:** Python, C++
+**Python:** aiogram, requests, Pygame, SQLite
+**Железо:** ESP32, Arduino, HTTP-протоколы, EEPROM, watchdog
+**Инструменты:** Git, Linux, SSH, systemd, CMake, PyInstaller
+
+## Учусь
+
+Первый курс, информационные системы и технологии, КубГУ.
+Параллельно развиваю собственный проект — автономный игровой контроллер.
+
+## Связаться
+
+  Telegram: @Cool_pelmen228
+Почта: agladcenko3@gmail.com
