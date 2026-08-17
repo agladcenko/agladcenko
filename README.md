@@ -30,7 +30,7 @@ Telegram-бот для повторяющихся дел: планировщик
 ## Стек
 
 * Языки: Python, C++
-* Python: aiogram, requests, BeautifulSoup, Pygame, SQLite, openpyxl
+* Python: aiogram, APScheduler, requests, BeautifulSoup, Pygame, SQLite, openpyxl
 * Железо: ESP32, Arduino, HTTP, EEPROM, watchdog
 * Инструменты: Git, Linux, SSH, systemd, CMake, PyInstaller
 
