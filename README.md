@@ -41,4 +41,5 @@ Telegram-бот для повторяющихся дел: планировщик
 ## Связаться
 
 Telegram: @Cool_pelmen228
+
 Почта: [agladcenko3@gmail.com](mailto:agladcenko3@gmail.com)
