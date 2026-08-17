@@ -24,6 +24,9 @@
 [Крипто-бот](https://github.com/agladcenko/crypto-rate-bot)
 Телеграм-бот для отслеживания курсов криптовалют: CoinGecko API, inline-кнопки, SQLite, обработка сетевых ошибок. Задеплоен на VPS как systemd-сервис.
 
+[Бот напоминаний](https://github.com/agladcenko/reminder-bot)
+Telegram-бот для повторяющихся дел: планировщик с автопереносом сроков, часовые пояса, сохранение задач между перезапусками. Python, aiogram 3, APScheduler, SQLite.
+
 ## Стек
 
 * Языки: Python, C++
